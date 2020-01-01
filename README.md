@@ -13,6 +13,8 @@ Creating HR database using MS SQL, loading data and providing analysis using SQL
 * [Status](#status)
 * [Contact](#contact)
 
+## Status
+Project is: _finished_.
 
 ## Contact
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
