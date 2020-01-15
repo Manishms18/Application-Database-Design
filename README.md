@@ -7,6 +7,12 @@ Creating HR database using MS SQL, loading data and providing analysis using SQL
 * [Status](#status)
 * [Contact](#contact)
 
+## Technologies and Tools
+* SQL
+* Advanced SQL
+* Excel
+* MS SQL
+
 ## Status
 Project is: _finished_.
 
